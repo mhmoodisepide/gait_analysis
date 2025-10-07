@@ -13,11 +13,10 @@ This project is part of my personal learning to understand gait signals and how 
   - For right foot
   - For left foot
   - Both together in one graph
-
+- Gait metrics like step time, stride time, cadence
 ---
 
 ## What I'm planning to add:
-- Gait metrics like step time, stride time, cadence
 - Toe-off detection
 - Symmetry analysis between right and left foot
 - Maybe real gait data later if available
