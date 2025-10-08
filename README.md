@@ -14,11 +14,12 @@ This project is part of my personal learning to understand gait signals and how 
 - Computed gait metrics:
   - Stride time
   - Cadence (steps per minute)
+- Implement toe-off detection to complement heel-strike events
+
 
 ---
 
 ## What I'm planning to add:
-- Implement toe-off detection to complement heel-strike events
 - Perform symmetry analysis between right and left foot
 - Analyze and visualize joint kinematics using Python
 - Explore joint kinematics (hip, knee) across varying walking speeds
