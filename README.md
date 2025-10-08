@@ -5,21 +5,27 @@ Learning how to create and analyze simple synthetic gait data at home using Pyth
 This project is part of my personal learning to understand gait signals and how to work with them using basic tools.
 
 ---
+## What’s Included So Far
+- Generated synthetic gait signals for right and left foot motion
+- Visualized height trajectories for both feet
+- Detected heel-strike events:
+  - Right foot only
+  - Both feet together on a single graph
+- Computed gait metrics:
+  - Stride time
+  - Cadence (steps per minute)
 
-## What’s included so far:
-- Created synthetic signals for right and left foot motion
-- Plotted height trajectories for both feet
-- Detected heel strike points:
-  - For right foot
-  - For left foot
-  - Both together in one graph
-- Gait metrics like step time, stride time, cadence
 ---
 
 ## What I'm planning to add:
-- Toe-off detection
-- Symmetry analysis between right and left foot
-- Maybe real gait data later if available
+- Implement toe-off detection to complement heel-strike events
+- Perform symmetry analysis between right and left foot
+- Analyze and visualize joint kinematics using Python
+- Explore joint kinematics (hip, knee) across varying walking speeds
+- Investigate correlations between walking speed and joint motion
+- Improve gait event detection and data visualization
+- Incorporate real gait data if available in future
+
 
 ---
 
@@ -28,7 +34,6 @@ This project is part of my personal learning to understand gait signals and how 
 - pandas
 - matplotlib
 - scipy
-- seaborn
 
 ---
 
