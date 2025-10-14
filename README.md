@@ -16,12 +16,12 @@ This project is part of my personal learning to understand gait signals and how 
   - Cadence (steps per minute)
 - Implemented toe-off detection to complement heel-strike events
 - Performed symmetry analysis between right and left foot
+- Analyze and visualize joint kinematics using Python
 
 ---
 
 ## What I'm planning to add:
 
-- Analyze and visualize joint kinematics using Python
 - Explore joint kinematics (hip, knee) across varying walking speeds
 - Investigate correlations between walking speed and joint motion
 - Improve gait event detection and data visualization
